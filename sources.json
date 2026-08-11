@@ -1,0 +1,62 @@
+[
+  {
+    "id": "times_of_india_chennai",
+    "name": "Times of India",
+    "section": "Chennai",
+    "language": "en",
+    "source_type": "news_organisation",
+    "access_method": "rss",
+    "url": "https://timesofindia.indiatimes.com/rssfeeds/2950623.cms",
+    "status": "active_test"
+  },
+  {
+    "id": "ndtv_india",
+    "name": "NDTV",
+    "section": "India",
+    "language": "en",
+    "source_type": "news_organisation",
+    "access_method": "rss",
+    "url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "status": "active_test"
+  },
+  {
+    "id": "oneindia_chennai",
+    "name": "OneIndia",
+    "section": "Chennai",
+    "language": "en",
+    "source_type": "news_organisation",
+    "access_method": "rss",
+    "url": "https://www.oneindia.com/rss/chennai-fb.xml",
+    "status": "active_test"
+  },
+  {
+    "id": "pib_chennai_en",
+    "name": "Press Information Bureau",
+    "section": "Chennai",
+    "language": "en",
+    "source_type": "primary_official",
+    "access_method": "rss",
+    "url": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=6",
+    "status": "active_test"
+  },
+  {
+    "id": "pib_chennai_ta",
+    "name": "Press Information Bureau",
+    "section": "Chennai",
+    "language": "ta",
+    "source_type": "primary_official",
+    "access_method": "rss",
+    "url": "https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=11&Regid=6",
+    "status": "active_test"
+  },
+  {
+    "id": "indian_express_chennai",
+    "name": "The Indian Express",
+    "section": "Chennai",
+    "language": "en",
+    "source_type": "news_organisation",
+    "access_method": "rss_access_test",
+    "url": "https://indianexpress.com/section/cities/chennai/feed/",
+    "status": "access_test"
+  }
+]
